@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá! 👋
 
+Atualmente estou estudando bastante Python!
+Fiquem à vontade para olhar 🔭.
 <!--
 **robertoweller/robertoweller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
